@@ -1,1 +1,2 @@
 # joting-down-ideas
+## A great way to take don notes, by simply adding a tittle to the idea you'd like to jot down.very simple and easy to use with a save function look back at your ideas and as well a delete feature 
